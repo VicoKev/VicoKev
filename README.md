@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mavic and I am a full-stack developer who loves new technologies.
+I am Mavic Patinvoh, a full-stack developer who loves new technologies.
 
 - 🖥 I am currently working with Laravel for most of my projects
 - 🔭 I am currently working on a personal project in Laravel to optimize patient management in dental offices.
