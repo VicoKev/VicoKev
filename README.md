@@ -21,19 +21,22 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:kevinpatinvoh@gmail.com" target="_blank">
+  <a href="mailto:kevinpatinvoh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mavic-patinvoh" target="_blank">
+  <a href="https://www.linkedin.com/in/mavic-patinvoh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@vicokev" target="_blank">
+  <a href="https://medium.com/@vicokev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <!--<a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>-->
+  <!--
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a> 
+  -->
 </div>
+
 
 
  <hr/>
