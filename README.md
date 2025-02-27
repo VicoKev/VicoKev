@@ -4,8 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mavic+Patinvoh!;" />
 </h1>
 
-<h3 align="center">Passionate about new technologies, I am a seasoned full-stack developer (React & Laravel) with over two years of experience in designing and developing robust and high-performance web applications. I am always looking for new opportunities to learn and take on new challenges. </h3>
-
 <br/>
 
 <div align="center">
@@ -49,15 +47,6 @@
 </div>
 
 <br/>
-<!--<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VicoKev/VicoKev/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> -->
 
 <hr/>
 
